@@ -1,4 +1,4 @@
-module r3ds9-svcs
+module github.com/mario-imperato/r3ds9-svcs
 
 go 1.21
 
