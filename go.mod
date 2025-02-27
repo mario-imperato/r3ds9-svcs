@@ -1,6 +1,6 @@
 module github.com/mario-imperato/r3ds9-svcs
 
-go 1.21
+go 1.23.3
 
 require (
 	github.com/GPA-Gruppo-Progetti-Avanzati-SRL/tpm-aws-common v0.0.4
